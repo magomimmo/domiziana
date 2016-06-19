@@ -6,6 +6,9 @@ theme = "grid-side"
 copyright = "Copyright &#169; by Domiziana Giordano"
 
 # The theme uses pagination for post, gallery, and project listings.
+# verificare se commentandolo e impostando lo scrolling infinite_scroll
+# si evita di vedere i link delle paginazoni senza sottomettere le request
+# per ogni immagine
 paginate = 12
 
 # The theme supports disqus, which will appear only on deployed sites,
@@ -14,9 +17,14 @@ paginate = 12
 # front matter of specific content.
 #disqusShortname = "yourDisqusShortname"
 
+# non si usa nel sito di Domiziana
+
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
 # SectionPagesMenu = "Main"
+
+# per il sito di domiziana usiamo esplicitamente il menu per poter decidere
+# sia le voci del menu che il loro ordinamento.
 
 [[Menu.Main]]
         name = "Sculpture"
@@ -69,9 +77,10 @@ paginate = 12
 [Params]
     # When set to true, will use infinite scrolling to load paginated content
     # for posts, galleries, and projects
+    # vedi nota precedente per il numero di item della paginazione
     infinite_scroll = true
 
-    # 
+    #
     # The post, project, and gallery sections can have infinite scroll turned
     # on/off individually. These values override the infinte_scroll option
     # above.
@@ -92,6 +101,8 @@ paginate = 12
     # Optionally specify the style for highlight.js to enable it, otherwise
     # you can use Pygments on the server side.
     #
+    # probabilmente questo può essere rimosso perchè non usato nel sito
+    # di domiziana
     [Params.Highlight]
 
         style = "railscasts"
@@ -111,16 +122,23 @@ paginate = 12
         description = "Visual Artist"
 
         # This is optional
+        # non usiamo l'email nella home page.
         # email = "your@email.com"
 
         # Not providing this results in a color being used
+        # trovare il miglior rapporto tra qualità dell'immagine
+        # e dimensioni della stessa. Bisogna cercare sempre di utilizzare
+        # immagine che pesino pochissimo, sopratutto considerando il mobile
         image = "/img/banner.jpg"
 
         # This uses the CSS background-position, given the image above is set,
         # useful when you want to adjust where the background-image lands
+        # quando di usa un'immagine, bisogna verificare che il suo
+        # posizionamento nella cella sia sensato dal punto di vista visivo
         image_position = "top center"
 
         # This must be provided if the image above is not
+        # questo probabilmente si può commentare quando c'è una immagine
         #color = "#FFF"
 
     #
@@ -139,21 +157,22 @@ paginate = 12
         #   e.g. twitter == "fa fa-twitter"
         #
         [[Params.Footer.List]]
-
+            # instagram professionale
             icon_class = "instagram"
             icon_link = "https://www.instagram.com/domizianagiordano/"
 
         [[Params.Footer.List]]
-
+            # instagram personale
             icon_class = "photo"
             icon_link = "https://www.instagram.com/domizianagiordano2/"
 
         [[Params.Footer.List]]
-
+            # facebook
             icon_class = "facebook"
             icon_link = "https://www.facebook.com/domiziana.giordano1"
 
-        ## rimuovere l'email perchè poi lo sostituiamo con la form
+        # trovare il modo di sostituire l'email con la chiamata ad una
+        # form di comunicazione con domiziana
         [[Params.Footer.List]]
 
             icon_class = "envelope"
@@ -162,7 +181,7 @@ paginate = 12
     #
     # Contains the Cells representing the sections of your website. Each cell
     # contains the name of the cell, an image depicting what the content
-    # represents, and a link to use when the cell is clicked. 
+    # represents, and a link to use when the cell is clicked.
     #
     # Not providing an image will use the color specified by 'color' as the
     # background color (default to #FFF).
@@ -181,7 +200,9 @@ paginate = 12
 
             name = "Sculpture"
             link = "/sculpture/"
+            # verificare dimensione e qualità dell'immagine
             image = "/img/sculpture/totem-04.jpg"
+            # verificare posizionamento dell'immagine nella cella
             image_position = "center"
             always_show_text = true
 
@@ -189,7 +210,9 @@ paginate = 12
 
             name = "Painting"
             link = "/painting/"
+            # verificare dimensione e qualità dell'immagine
             image = "/img/painting/partouze-02.jpg"
+            # verificare posizionamento dell'immagine nella cella
             image_position = "center"
             always_show_text = true
 
@@ -224,46 +247,14 @@ paginate = 12
             always_show_text = true
 
         [[Params.Cells.List]]
+            name = "Posts"
+            link = "/post/"
+            image = "/img/iwanttobeyou.jpg"
+            image_position = "center"
+
+        [[Params.Cells.List]]
             name = "Biography"
             link = "/biography/bio/"
             image = "/img/biography.jpg"
             image_position = "center"
             always_show_text = true
-
-    [Params.Cells]
-
-        [[Params.Cells.List]]
-
-            # The name to use with the cell, shows up on hover
-            name = "Posts"
-
-            # The link to associate with the cell, used when clicked
-            link = "/post/"
-
-            # The image to use as a background-image for the cell
-            image = "/img/iwanttobeyou.jpg"
-
-            # This uses the CSS background-position, given the image above is
-            # set, useful when you want to adjust where the background-image
-            # lands
-            image_position = "center"
-
-            # The color to use as a fallback if an image is not provided
-            #color = "blue"
-
-            # Grays out the image (if provided), the image will be restored
-            # to normal color on hover
-            #grayscale = true
-
-            # Disables the normal cell highlight on hover
-            #no_highlight = true
-            
-            # Normally, a cell only shows text (its name) on hover, setting
-            # this to true results in the cell always showing its text
-            # and also using a dark overlay to make the white text be more
-            # visible
-            always_show_text = true
-
-            # Grays out the cell and disables click functionality on it
-            #disable = true
-
