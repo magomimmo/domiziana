@@ -6,9 +6,6 @@ theme = "grid-side"
 copyright = "Copyright &#169; by Domiziana Giordano"
 
 # The theme uses pagination for post, gallery, and project listings.
-# verificare se commentandolo e impostando lo scrolling infinite_scroll
-# si evita di vedere i link delle paginazoni senza sottomettere le request
-# per ogni immagine
 paginate = 12
 
 # The theme supports disqus, which will appear only on deployed sites,
@@ -17,14 +14,9 @@ paginate = 12
 # front matter of specific content.
 #disqusShortname = "yourDisqusShortname"
 
-# non si usa nel sito di Domiziana
-
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
 # SectionPagesMenu = "Main"
-
-# per il sito di domiziana usiamo esplicitamente il menu per poter decidere
-# sia le voci del menu che il loro ordinamento.
 
 [[Menu.Main]]
         name = "Sculpture"
@@ -77,7 +69,6 @@ paginate = 12
 [Params]
     # When set to true, will use infinite scrolling to load paginated content
     # for posts, galleries, and projects
-    # vedi nota precedente per il numero di item della paginazione
     infinite_scroll = true
 
     #
@@ -101,8 +92,6 @@ paginate = 12
     # Optionally specify the style for highlight.js to enable it, otherwise
     # you can use Pygments on the server side.
     #
-    # probabilmente questo può essere rimosso perchè non usato nel sito
-    # di domiziana
     [Params.Highlight]
 
         style = "railscasts"
@@ -122,23 +111,16 @@ paginate = 12
         description = "Visual Artist"
 
         # This is optional
-        # non usiamo l'email nella home page.
         # email = "your@email.com"
 
         # Not providing this results in a color being used
-        # trovare il miglior rapporto tra qualità dell'immagine
-        # e dimensioni della stessa. Bisogna cercare sempre di utilizzare
-        # immagine che pesino pochissimo, sopratutto considerando il mobile
         image = "/img/banner.jpg"
 
         # This uses the CSS background-position, given the image above is set,
         # useful when you want to adjust where the background-image lands
-        # quando di usa un'immagine, bisogna verificare che il suo
-        # posizionamento nella cella sia sensato dal punto di vista visivo
         image_position = "top center"
 
         # This must be provided if the image above is not
-        # questo probabilmente si può commentare quando c'è una immagine
         #color = "#FFF"
 
     #
@@ -157,24 +139,18 @@ paginate = 12
         #   e.g. twitter == "fa fa-twitter"
         #
         [[Params.Footer.List]]
-            # instagram professionale
             icon_class = "instagram"
             icon_link = "https://www.instagram.com/domizianagiordano/"
 
         [[Params.Footer.List]]
-            # instagram personale
             icon_class = "photo"
             icon_link = "https://www.instagram.com/domizianagiordano2/"
 
         [[Params.Footer.List]]
-            # facebook
             icon_class = "facebook"
             icon_link = "https://www.facebook.com/domiziana.giordano1"
 
-        # trovare il modo di sostituire l'email con la chiamata ad una
-        # form di comunicazione con domiziana
         [[Params.Footer.List]]
-
             icon_class = "envelope"
             icon_link = "mailto:office@domizianagiordano.it"
 
@@ -196,65 +172,61 @@ paginate = 12
     # ranging from 1 to 12. Make sure that Cells have nubmers equalling 12
     # per row.
     #
-        [[Params.Cells.List]]
+    [[Params.Cells.List]]
 
-            name = "Sculpture"
-            link = "/sculpture/"
-            # verificare dimensione e qualità dell'immagine
-            image = "/img/sculpture/totem-04.jpg"
-            # verificare posizionamento dell'immagine nella cella
-            image_position = "center"
-            always_show_text = true
+      name = "Sculpture"
+      link = "/sculpture/"
+      image = "/img/sculpture/totem-04.jpg"
+      image_position = "center"
+      always_show_text = true
 
-        [[Params.Cells.List]]
+    [[Params.Cells.List]]
 
-            name = "Painting"
-            link = "/painting/"
-            # verificare dimensione e qualità dell'immagine
-            image = "/img/painting/partouze-02.jpg"
-            # verificare posizionamento dell'immagine nella cella
-            image_position = "center"
-            always_show_text = true
+      name = "Painting"
+      link = "/painting/"
+      image = "/img/painting/partouze-02.jpg"
+      image_position = "center"
+      always_show_text = true
 
-        [[Params.Cells.List]]
+    [[Params.Cells.List]]
 
-            name = "Drawing"
-            link = "/drawing/"
-            image = "/img/drawing/inkdrawing-03.jpg"
-            image_position = "center"
-            always_show_text = true
+      name = "Drawing"
+      link = "/drawing/"
+      image = "/img/drawing/inkdrawing-03.jpg"
+      image_position = "center"
+      always_show_text = true
 
-        [[Params.Cells.List]]
+    [[Params.Cells.List]]
 
-            name = "Photography"
-            link = "/photography/"
-            image = "/img/photography/diachrony-04.jpg"
-            image_position = "top left"
-            always_show_text = true
+      name = "Photography"
+      link = "/photography/"
+      image = "/img/photography/diachrony-04.jpg"
+      image_position = "top left"
+      always_show_text = true
 
-        [[Params.Cells.List]]
-            name = "Video"
-            link = "/video/"
-            image = "/img/origine.jpg"
-            always_show_text = true
+    [[Params.Cells.List]]
+      name = "Video"
+      link = "/video/"
+      image = "/img/origine.jpg"
+      always_show_text = true
 
-        [[Params.Cells.List]]
+    [[Params.Cells.List]]
 
-            name = "Projects"
-            link = "/project/"
-            image = "/img/youarehere-biennale-02.jpg"
-            image_position = "left center"
-            always_show_text = true
+      name = "Projects"
+      link = "/project/"
+      image = "/img/youarehere-biennale-02.jpg"
+      image_position = "left center"
+      always_show_text = true
 
-        [[Params.Cells.List]]
-            name = "Posts"
-            link = "/post/"
-            image = "/img/iwanttobeyou.jpg"
-            image_position = "center"
+    [[Params.Cells.List]]
+      name = "Posts"
+      link = "/post/"
+      image = "/img/iwanttobeyou.jpg"
+      image_position = "center"
 
-        [[Params.Cells.List]]
-            name = "Biography"
-            link = "/biography/bio/"
-            image = "/img/biography.jpg"
-            image_position = "center"
-            always_show_text = true
+    [[Params.Cells.List]]
+      name = "Biography"
+      link = "/biography/bio/"
+      image = "/img/biography.jpg"
+      image_position = "center"
+      always_show_text = true

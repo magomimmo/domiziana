@@ -1,6 +1,7 @@
 +++
-categories = [ "video", "2016"]
-image = "/img/origine.jpg"
+categories = [ "Video"]
+draft = true
+image = "/img/placeholder.jpg"
 +++
 
 ### Introduzione

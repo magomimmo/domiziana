@@ -1,11 +1,10 @@
 +++
-title = "Nuovo Progetto"
-date = "2016-07-01"
-categories = [ "Project", "2016" ]
-image = "/img/project/youarehere/youarehere-06.jpg"
+categories = [ "Project"]
+draft = true
+image = "/img/placeholder.jpg"
 +++
 
-### Introduzione
+### Introduction
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
 commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus
@@ -26,20 +25,3 @@ blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio
 et ante tincidunt tempus. Donec vitae sapien ut libero venenatis
 faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus
 tincidunt.
-
-Per aggiungere una immagine, sostituire il testo alternativo tra le
-parentesi quadre e l'indirizzo dell'immagine tra le parentesi tonde.
-
-```
-![Alternate Text](/img/youarehere-biennale-02.jpg)
-```
-
-![Alternate Text](/img/youarehere-biennale-02.jpg)
-
-
-Per aggiungere un video da youtube sostituire l'identificativo del video.
-
-`{{< youtube gFLQJMXIG7U >}}`
-
-{{< youtube gFLQJMXIG7U >}}
-
