@@ -34,8 +34,9 @@ Nicholas Roeg, interpreta Mata Hari nelle serie televisiva *Le
 avventure del giovane Indiana Jones*. Nel 1994, viene scelta da Neil
 Jordan nel film *Intervista col Vampiro* nel cui cast comparivano
 anche Tom Cruise, Brad Pitt e Antonio Banderas. Sempre nel 1994 recita
-nel film *Mario e il mago* di e con Klaus Maria Brandauer. L'anno
-successivo, il 1995, Domiziana comincia il suo percorso artistico
+nel film *Mario e il mago* di e con Klaus Maria Brandauer.
+
+L'anno successivo, il 1995, Domiziana comincia il suo percorso artistico
 girando *Virtual Memory*, presentato due anni dopo al Locarno Video
 Art Film Festival da Achille Bonito Oliva, e si trasferisce a New
 York, dove studia regia alla New York Film Accademy. Infatti,
@@ -44,6 +45,7 @@ all’età di 13 anni. A partire dal 1996 comincia a dedicarsi
 prevalentemente alle arti visive. Tra le mostre collettive, italiane e
 internazionali, cui ha partecipato con le sue opere si ricordano
 quelle curate da Achille Bonito Oliva, Denis Curti e Elena Agudio.
+
 Nel 2006 prende parte come concorrente alla quarta edizione del
 reality show di Rai 2 L'isola dei famosi, sperando di portare un suo
 lavoro con sé ma l’idea si rivela incompatibile con la politica
