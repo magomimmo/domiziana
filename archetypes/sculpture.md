@@ -1,5 +1,6 @@
 +++
-categories = [ "Photography"]
 draft = true
+categories = []
+tags = []
 image = "/img/placeholder.jpg"
 +++
