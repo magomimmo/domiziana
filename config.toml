@@ -223,6 +223,7 @@ paginate = 12
       link = "/post/"
       image = "/img/iwanttobeyou.jpg"
       image_position = "center"
+      always_show_text = true
 
     [[Params.Cells.List]]
       name = "Biography"
