@@ -3,7 +3,7 @@ baseurl = "http://www.domizianagiordano.it/"
 languageCode = "en-us"
 title = "Domiziana Giordano"
 theme = "grid-side"
-copyright = "Copyright &#169; by Domiziana Giordano"
+copyright = "&#169; by Domiziana Giordano"
 
 # The theme uses pagination for post, gallery, and project listings.
 paginate = 12
