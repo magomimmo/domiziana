@@ -81,7 +81,7 @@
     display: block;
     position: fixed;
 
-    width: 50px;
+    width: 55px;
     height: 100%;
 
     top: 0px;
@@ -276,7 +276,7 @@ html, body {
 .main-content {
     display: block;
     position: relative;
-    padding-left: 50px;
+    padding-left: 55px;
     width: 100%;
     min-height: 100%;
 }
