@@ -34,9 +34,9 @@
 
                 <div class="flex-container">
                     {{ range .Site.Params.Cells.List }}
-                        <!-- 
-                             Note: The link and contents must be here since we 
-                             cannot pass .Site.BaseURL as part of the context 
+                        <!--
+                             Note: The link and contents must be here since we
+                             cannot pass .Site.BaseURL as part of the context
                         -->
                         <a href="{{ if .disable }}#!{{ else }}{{ $baseUrl }}{{ .link }}{{ end }}" class="flex-item">
                             <div class="cell
@@ -79,7 +79,7 @@
                 </div>
 
                 {{ with .Site.Params.Footer }}
-                    <div class="row-colors right-align">
+                    <div class="row-colors center-align">
                         <ul class="main-page-footer horizontal no-bullets no-margin">
                             {{ range .List }}
                                 <li>
@@ -89,7 +89,7 @@
                                 </li>
                                 <li>|</li>
                             {{ end }}
-                            <li>{{ $.Site.Copyright | markdownify }}</li>
+                            <li style="font-size:.75em">{{ $.Site.Copyright | markdownify }}</li>
                         </ul>
                     </div>
                 {{ end }}
@@ -101,4 +101,3 @@
 </body>
 
 {{ partial "core/html-end.html" . }}
-

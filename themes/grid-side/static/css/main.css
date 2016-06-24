@@ -81,7 +81,7 @@
     display: block;
     position: fixed;
 
-    width: 60px;
+    width: 50px;
     height: 100%;
 
     top: 0px;
@@ -93,7 +93,7 @@
 /* Represents the standard foreground/background colors of a menu. */
 .menu-colors {
     background-color: #FFF;
-    color: #666;
+    color: #262626;
 }
 
 /* NOTE: Renable pointer events since parent disables them (allows hover) */
@@ -250,7 +250,7 @@ html, body {
 
 .row-colors {
     background-color: #FFF;
-    color: #666;
+    color: #262626;
 }
 
 .page-colors {
@@ -276,7 +276,7 @@ html, body {
 .main-content {
     display: block;
     position: relative;
-    padding-left: 60px;
+    padding-left: 50px;
     width: 100%;
     min-height: 100%;
 }
@@ -612,12 +612,12 @@ ul.tags li a:hover {
 /* ========================================================================= */
 
 ul.main-page-footer li {
-    color: #666666;
+    color: #262626;
     font-size: 2em;
 }
 
 ul.main-page-footer li a {
-    color: #666666;
+    color: #262626;
 }
 
 ul.no-list-float li {
