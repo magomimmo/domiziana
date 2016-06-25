@@ -1,11 +1,9 @@
 +++
-title = "Senza Titolo"
-categories = [ "video", "2015"]
-weight = 0
-image = "/img/video/domiziana-01.jpg"
+title = "Love for Sale"
+categories = ["1999"]
+date = "1999-03-01"
+image = "/img/video/love-for-sale.jpg"
 +++
-
-### Work in progress
 
 #### Cos’è Lorem Ipsum?
 
@@ -21,3 +19,4 @@ contenevano passaggi del Lorem Ipsum, e più recentemente da software
 di impaginazione come Aldus PageMaker, che includeva versioni del
 Lorem Ipsum.
 
+{{% youtube 7x62LGCiob0 %}}
