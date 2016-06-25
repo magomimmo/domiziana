@@ -1,5 +1,5 @@
 +++
-title = "La cride de l'art"
+title = "La crise de l'art"
 date = "1999-01-01"
 categories = [ "1999"]
 image = "/img/video/la-crise-de-lart.jpg"
