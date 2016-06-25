@@ -1,7 +1,7 @@
 +++
 title = "Diachrony - Nov 030"
 date = "2002-01-01"
-categories = ["Photo Print on Aluminium""2002"]
+categories = ["2002"]
 media = ["Photo Print on Aluminium"]
 size = "100 x 100 cm"
 image = "/img/photography/diachrony-10.jpg"
