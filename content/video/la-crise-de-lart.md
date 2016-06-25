@@ -5,8 +5,6 @@ categories = [ "1999"]
 image = "/img/video/la-crise-de-lart.jpg"
 +++
 
-### La crise de l'art
-
 #### Cos’è Lorem Ipsum?
 
 Lorem Ipsum è un testo segnaposto utilizzato nel settore della

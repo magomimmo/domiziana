@@ -5,8 +5,6 @@ categories = [ "1995"]
 image = "/img/video/on-the-skin.jpg"
 +++
 
-### On the skin
-
 #### Cos’è Lorem Ipsum?
 
 Lorem Ipsum è un testo segnaposto utilizzato nel settore della

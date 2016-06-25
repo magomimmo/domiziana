@@ -5,8 +5,6 @@ categories = [ "2003"]
 image = "/img/video/self-awareness.jpg"
 +++
 
-### Self Awareness
-
 #### Cos’è Lorem Ipsum?
 
 Lorem Ipsum è un testo segnaposto utilizzato nel settore della
