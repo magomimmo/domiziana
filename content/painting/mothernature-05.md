@@ -1,8 +1,8 @@
 +++
 title = "Mother Nature - 05"
 date = "2015-09-01"
-categories = [ "Painting", "Photo Print", "Mixed Media", "2015"]
-media = []
+categories = ["2015"]
+media = ["Mixed Media"]
 size = "100 x 100 cm"
 image = "/img/painting/mothernature-05.jpg"
 +++
