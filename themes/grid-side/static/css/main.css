@@ -55,12 +55,12 @@
 .project-container {}
 
 .project-container-image {
-    background-color: #FFFFFF;
+    background-color: #f2f2f2;
 }
 
 .project-container-title {
     padding: 10px;
-    background-color: #FFFFFF;
+    background-color: #f2f2f2;
     color: #262626;
 }
 
@@ -236,8 +236,8 @@ html, body {
     color: #FFFFFF;
 }
 
-.black-text {
-  color: #262626;
+.dark-text {
+  color: #757575;
 }
 
 .black-overlay {
