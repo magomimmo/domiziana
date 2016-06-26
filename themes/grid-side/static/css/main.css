@@ -60,8 +60,8 @@
 
 .project-container-title {
     padding: 10px;
-    background-color: #999999;
-    color: #FFFFFF;
+    background-color: #FFFFFF;
+    color: #262626;
 }
 
 /* ========================================================================= */
@@ -178,7 +178,7 @@ ul.menu li {
 }
 
 .page-item-title {
-    color: #000000;
+    color: #262626;
 }
 
 .page-item-summary {
@@ -234,6 +234,10 @@ html, body {
 
 .white-text {
     color: #FFFFFF;
+}
+
+.black-text {
+  color: #262626;
 }
 
 .black-overlay {
