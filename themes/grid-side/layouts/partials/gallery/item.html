@@ -4,11 +4,13 @@
 {{ $date := .Date.Format "Mon Jan 02, 2006" }}
 {{ $title := .Title }}
 {{ $categories := .Params.categories}}
+{{ $media := .Params.media }}
+{{ $size := .Params.size }}
 <!-- TODO: Figure out why line height causes issues here -->
 <div class="flex-item flex-item-spacing no-line-height">
     <div class="relative rounded-corners z-depth-1 lazyload" data-noscript="">
         <noscript>
-            <a href="{{ $url }}{{ $image }}" data-lightbox="gallery" data-title="{{ $title }} {{ $categories }}">
+            <a href="{{ $url }}{{ $image }}" data-lightbox="gallery" data-title="{{ $title }} {{ $categories }} {{ $media }} {{ $size }}">
                 <img src="{{ $url }}{{ $image }}"
                      class="fill-container-width rounded-corners z-depth-1" />
                 <div class="highlight-block rounded-corners">
@@ -18,4 +20,3 @@
         </noscript>
     </div>
 </div>
-
