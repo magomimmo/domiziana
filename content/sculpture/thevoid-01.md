@@ -2,7 +2,7 @@
 title = "The Void - 01"
 date = "2011-02-01"
 categories = ["2011"]
-media = ["White Clay"]
-size = "100 x 100 cm"
+media = ["Synthetic Material", "Pigment", "Watercolor"]
+size = "60 x 150 cm"
 image = "/img/sculpture/thevoid-01.jpg"
 +++

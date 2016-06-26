@@ -1,8 +1,8 @@
 +++
-title = "Totem - 09"
+title = "Totem - 10"
 date = "2016-06-01"
 categories = ["2016"]
 media = ["Synthetic Material", "Pigment", "Wood", "Iron"]
-size = "100 x 100 cm"
-image = "/img/sculpture/totem-09.jpg"
+size = "Diameter 45 cm"
+image = "/img/sculpture/totem-10.jpg"
 +++
