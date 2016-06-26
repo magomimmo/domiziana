@@ -1,8 +1,8 @@
 +++
-title = "Love for Sale"
-categories = [ "video", "1999"]
-weight = 5
-image = "/img/video/domiziana-03.jpg"
+title = "Savoy Truffle"
+categories = ["1999"]
+date = "1999-02-01"
+image = "/img/video/savoy-truffle.jpg"
 +++
 
 ### Work in progress
@@ -21,3 +21,4 @@ contenevano passaggi del Lorem Ipsum, e più recentemente da software
 di impaginazione come Aldus PageMaker, che includeva versioni del
 Lorem Ipsum.
 
+{{% youtube co3HWR0OwpM %}}

@@ -1,8 +1,8 @@
 +++
 title = "Crystal Clear - 04"
 date = "2014-01-01"
-categories = [ "Photo Print on Aluminium", "2014"]
-media = []
+categories = ["2014"]
+media = ["Photo Print on Aluminium"]
 size = "100 x 100 cm"
 image = "/img/photography/crystal-04.jpg"
 +++

@@ -1,8 +1,8 @@
 +++
 title = "People - 11"
 date = "2010-01-01"
-categories = [ "Sculpture", "2010"]
-media = []
+categories = ["2010"]
+media = ["Clay"]
 size = "100 x 100 cm"
 image = "/img/sculpture/people-11.jpg"
 +++

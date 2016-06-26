@@ -1,11 +1,9 @@
 +++
 title = "L'origine del mondo"
-categories = [ "video", "2015"]
-weight = -1
-image = "/img/origine.jpg"
+date = "2015-08-01"
+categories = [ "2015"]
+image = "/img/video/origine-del-mondo.jpg"
 +++
-
-### Work in progress
 
 #### Cos’è Lorem Ipsum?
 
@@ -20,3 +18,5 @@ diffusione dei fogli di caratteri trasferibili “Letraset”, che
 contenevano passaggi del Lorem Ipsum, e più recentemente da software
 di impaginazione come Aldus PageMaker, che includeva versioni del
 Lorem Ipsum.
+
+{{% youtube gFLQJMXIG7U %}}

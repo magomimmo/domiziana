@@ -1,8 +1,8 @@
 +++
 title = "Prohibited Intellect"
 date = "2016-04-01"
-categories = [ "2016"]
-media = []
+categories = ["2016"]
+media = ["mixed media"]
 size = "100 x 100 cm"
 image = "/img/sculpture/prohibitedintellect-01.jpg"
 +++

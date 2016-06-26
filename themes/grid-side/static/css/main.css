@@ -783,3 +783,8 @@ ul.pagination {
         width: calc(33.33% - 20px);
     }
 }
+
+iframe {
+  max-width: 100% !important;
+  max-height: 100% !important;
+}

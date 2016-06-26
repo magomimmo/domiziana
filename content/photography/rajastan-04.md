@@ -1,8 +1,8 @@
 +++
 title = "Rajastan - 04"
 date = "2011-04-01"
-categories = [ "Photo Print", "2011"]
-media = []
+categories = ["2011"]
+media = ["Photo Print"]
 size = "100 x 100 cm"
 image = "/img/photography/rajastan-04.jpg"
 +++

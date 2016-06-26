@@ -1,8 +1,8 @@
 +++
 title = "Diachrony - Treno 846"
 date = "2002-01-01"
-categories = [ "Photo Print on Aluminium", "2002"]
-media = []
+categories = ["2002"]
+media = ["Photo Print on Aluminium"]
 size = "100 x 100 cm"
 image = "/img/photography/diachrony-01.jpg"
 +++

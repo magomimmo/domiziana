@@ -1,8 +1,8 @@
 +++
 title = "Metrosemiocity - Termini 296"
 date = "2003-01-01"
-categories = [ "Photo Print on Aluminium", "2003"]
-media = []
+categories = ["2003"]
+media = ["Photo Print on Aluminium"]
 size = "100 x 100 cm"
 image = "/img/photography/metrosemiocity-03.jpg"
 +++

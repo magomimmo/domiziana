@@ -1,11 +1,9 @@
 +++
-title = "Savoy Truffle"
-categories = [ "video", "1999"]
-weight = 4
-image = "/img/video/domiziana-02.jpg"
+title = "On the skin"
+date = "1995-01-01"
+categories = [ "1995"]
+image = "/img/video/on-the-skin.jpg"
 +++
-
-### Work in progress
 
 #### Cos’è Lorem Ipsum?
 
@@ -20,3 +18,5 @@ diffusione dei fogli di caratteri trasferibili “Letraset”, che
 contenevano passaggi del Lorem Ipsum, e più recentemente da software
 di impaginazione come Aldus PageMaker, che includeva versioni del
 Lorem Ipsum.
+
+{{% youtube MOsAJwxFuQ4 %}}

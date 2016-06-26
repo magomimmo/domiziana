@@ -1,8 +1,8 @@
 +++
 title = "The Offertory - 01"
 date = "2011-03-01"
-categories = [ "Sculpture", "Clay", "Wood", "2011"]
-media = []
+categories = ["2011"]
+media = ["Sculpture", "Clay", "Wood"]
 size = "100 x 100 cm"
 image = "/img/sculpture/offertory-01.jpg"
 +++
