@@ -55,6 +55,11 @@ del Sole 24 Ore.
 
 #### Esposizioni
 
+- 2016
+  - *Cazziefighe* a cura di Ivano Sossella e Massimo Kaufmann, Milano
+  - *L’Impegno della leggerezza* - Studi Aperti, Milano
+- 2014
+  - *Art & Fashion* - Beyond Fashion, Spazio Otto - Milano
 - 2007
   - Faccia Lei – portraits in transition in between medias and cultural
   areas - Spazio Thetis-Arsenale Novisimo, Venezia, a project from
