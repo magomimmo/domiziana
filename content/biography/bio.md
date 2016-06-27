@@ -61,19 +61,19 @@ del Sole 24 Ore.
 - 2014
   - *Art & Fashion* - Beyond Fashion, Spazio Otto - Milano
 - 2007
-  - Faccia Lei – portraits in transition in between medias and cultural
+  - *Faccia Lei* – portraits in transition in between medias and cultural
   areas - Spazio Thetis-Arsenale Novisimo, Venezia, a project from
   Museum Arterra from Austria, curated by Elena Agudio.
-  - Dintorni - Exposition Art Gallery, Fano (Italy)
-  - Is there anybody out there? LipanjepPuntin Arte Contemporanea,
+  - *Dintorni* - Exposition Art Gallery, Fano (Italy)
+  - *Is there anybody out there?* LipanjepPuntin Arte Contemporanea,
   Trieste (Italy)
 - 2006
   - *The Realm of Spirits* - Avantgarde design-art, Galleria Colombari,
   Salone del Mobile, Milan (Italy)
   - Sotheby’s - Collettiva benefit per ADISCO, Milan (Italy)
 - 2005
-  - Willcommen, Tacheles Kunsthaus, Berlin (Germany)
-  - Arte Fiera, LipanjePuntin artecontemporanea, Bologna (Italy)
+  - *Willcommen*, Tacheles Kunsthaus, Berlin (Germany)
+  - *Arte Fiera*, LipanjePuntin artecontemporanea, Bologna (Italy)
 - 2004
   - *Baciamo Le Mani* Alcamo (Italy)
   - *Arco* - LipanjePuntin artecontemporanea, Madrid (Spain)
@@ -104,15 +104,15 @@ del Sole 24 Ore.
   - Palazzo delle Esposizioni in Roma *La Coscienza Luccicante* – Dalla
     VideoArte all’Arte Interattiva” The international scenes of media
     art in the latest years.
-  - Biennale dell’Ambiente – Palazzo delle Esposizioni in Roma – curated
+  - *Biennale dell’Ambiente* – Palazzo delle Esposizioni in Roma – curated
     by Achille Bonito Oliva.
 - 1997
-  - Cyberealismo, Photology (Milano) curated by Denis Curti.
-  - Cyberealism, Photology, London (England)1996:
-  - Locarno Video-art Film Festival- (off competition) “Virtual Memory”,
+  - *Cyberealismo*, Photology (Milano) curated by Denis Curti.
+  - *Cyberealism*, Photology, London (England)1996:
+  - *Locarno Video-art Film Festival*- (off competition) “Virtual Memory”,
     curated by Achille Bonito Oliva
 - 1996
-  - Lingotto in Turin:”4Real”Video and Performance curated by Achille
+  - Lingotto in Turin: *4Real* Video and Performance curated by Achille
     Bonito Oliva and Electronic Art Cafè.
 
 #### Cortometraggi
@@ -123,25 +123,25 @@ del Sole 24 Ore.
 #### Video-art e installazioni:
 
 - 2013
-  - Mantra
+  - *Mantra*
 - 2003
-  - Self-Awareness
+  - *Self-Awareness*
 - 2002
-  - The doorman/passing
-  - Waiting
+  - *The doorman/passing*
+  - *Waiting*
 - 2001
-  - Understanding the art-market
-  - DSI Interactive Software
+  - *Understanding the art-market*
+  - *DSI Interactive Software*
 - 2000
-  - Experimental life project - version 1.0
+  - *Experimental life project* - version 1.0
 - 1999
-  - You are Here
-  - 18 Loops
-  - Love for sale
+  - *You are Here*
+  - *18 Loops*
+  - *Love for sale*
 - 1998
-  - On the Skin
+  - *On the Skin*
 - 1997
-  - Next Time: Alka-Selzer
+  - *Next Time: Alka-Selzer*
 - 1996
   - *Virtual Memory*
 
