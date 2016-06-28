@@ -92,7 +92,7 @@
 
 /* Represents the standard foreground/background colors of a menu. */
 .menu-colors {
-    background-color: #FFF;
+    background-color: #FFFFFF;
     color: #262626;
 }
 
@@ -253,7 +253,7 @@ html, body {
 }
 
 .row-colors {
-    background-color: #FFF;
+    background-color: #FFFFFF;
     color: #262626;
 }
 
