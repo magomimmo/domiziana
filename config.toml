@@ -108,9 +108,6 @@ paginate = 12
         name = "Domiziana Giordano"
 
         # This is optional
-        description = "Visual Artist"
-
-        # This is optional
         # email = "your@email.com"
 
         # Not providing this results in a color being used
