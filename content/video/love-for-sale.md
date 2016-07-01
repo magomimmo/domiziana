@@ -5,18 +5,22 @@ date = "1999-03-01"
 image = "/img/video/love-for-sale.jpg"
 +++
 
-#### Cos’è Lorem Ipsum?
 
-Lorem Ipsum è un testo segnaposto utilizzato nel settore della
-tipografia e della stampa. Lorem Ipsum è considerato il testo
-segnaposto standard sin dal sedicesimo secolo, quando un anonimo
-tipografo prese una cassetta di caratteri e li assemblò per preparare
-un testo campione. È sopravvissuto non solo a più di cinque secoli, ma
-anche al passaggio alla videoimpaginazione, pervenendoci
-sostanzialmente inalterato. Fu reso popolare, negli anni ’60, con la
-diffusione dei fogli di caratteri trasferibili “Letraset”, che
-contenevano passaggi del Lorem Ipsum, e più recentemente da software
-di impaginazione come Aldus PageMaker, che includeva versioni del
-Lorem Ipsum.
+Loop di 16 fotogrammi
+Love For Sale. Ascolto le parole della canzone di Cole Porter.
+Le donne hanno sempre ricevuto tanta violenza.
+Ma io sono piena di energia e nel caso saprei come difendermi.
+
+    Love for sale,
+    Appetizing young love for sale.
+    Love that's fresh and still unspoiled,
+    Love that's only slightly soiled,
+    Love for sale.
+    Who will buy?
+    Who would like to sample my supply?
+    Who's prepared to pay the price,
+    For a trip to paradise?
+    Love for sale...
+
 
 {{% youtube 7x62LGCiob0 %}}

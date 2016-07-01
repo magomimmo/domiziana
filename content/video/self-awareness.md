@@ -1,22 +1,16 @@
 +++
-title = "Self awareness"
+title = "Self-awareness"
 date = "2003-01-01"
 categories = [ "2003"]
 image = "/img/video/self-awareness.jpg"
+duration = "01:31"
 +++
 
-#### Cos’è Lorem Ipsum?
+*Self-awareness*, la coscienza del Sè.
 
-Lorem Ipsum è un testo segnaposto utilizzato nel settore della
-tipografia e della stampa. Lorem Ipsum è considerato il testo
-segnaposto standard sin dal sedicesimo secolo, quando un anonimo
-tipografo prese una cassetta di caratteri e li assemblò per preparare
-un testo campione. È sopravvissuto non solo a più di cinque secoli, ma
-anche al passaggio alla videoimpaginazione, pervenendoci
-sostanzialmente inalterato. Fu reso popolare, negli anni ’60, con la
-diffusione dei fogli di caratteri trasferibili “Letraset”, che
-contenevano passaggi del Lorem Ipsum, e più recentemente da software
-di impaginazione come Aldus PageMaker, che includeva versioni del
-Lorem Ipsum.
+La lunga corsa al galoppo diventa metafora.
+Così i pensieri seguono l’andamento della vita.
+
+Girato con una piccola Fuji che aveva, a quel tempo, una tecnologia molto all’avanguardia.
 
 {{% youtube kVBS5ivI0NY %}}
