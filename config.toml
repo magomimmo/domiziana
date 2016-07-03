@@ -173,58 +173,59 @@ paginate = 12
 
       name = "Sculpture"
       link = "/sculpture/"
-      image = "/img/sculpture/totem-04.jpg"
-      image_position = "center"
+      # image = "/img/sculpture/totem-04.jpg"
+      # image_position = "center"
       always_show_text = true
 
     [[Params.Cells.List]]
 
       name = "Painting"
       link = "/painting/"
-      image = "/img/painting/partouze-02.jpg"
-      image_position = "center"
+      # image = "/img/painting/partouze-02.jpg"
+      # image_position = "center"
       always_show_text = true
 
     [[Params.Cells.List]]
 
       name = "Drawing"
       link = "/drawing/"
-      image = "/img/drawing/inkdrawing-03.jpg"
-      image_position = "center"
+      # image = "/img/drawing/inkdrawing-03.jpg"
+      # image_position = "center"
       always_show_text = true
 
     [[Params.Cells.List]]
 
       name = "Photography"
       link = "/photography/"
-      image = "/img/photography/diachrony-04.jpg"
-      image_position = "top left"
+      # image = "/img/photography/diachrony-04.jpg"
+      # image_position = "top left"
       always_show_text = true
 
     [[Params.Cells.List]]
       name = "Video"
       link = "/video/"
-      image = "/img/origine.jpg"
+      # image = "/img/origine.jpg"
+      # image_position = "center"
       always_show_text = true
 
     [[Params.Cells.List]]
 
       name = "Projects"
       link = "/project/"
-      image = "/img/youarehere-biennale-02.jpg"
-      image_position = "left center"
+      # image = "/img/youarehere-biennale-02.jpg"
+      # image_position = "left center"
       always_show_text = true
 
     [[Params.Cells.List]]
       name = "Posts"
       link = "/post/"
-      image = "/img/iwanttobeyou.jpg"
-      image_position = "center"
+      # image = "/img/iwanttobeyou.jpg"
+      # image_position = "center"
       always_show_text = true
 
     [[Params.Cells.List]]
       name = "Biography"
       link = "/biography/bio/"
-      image = "/img/biography.jpg"
-      image_position = "center"
+      # image = "/img/biography.jpg"
+      # image_position = "center"
       always_show_text = true
