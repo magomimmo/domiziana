@@ -754,17 +754,14 @@ ul.pagination {
     display: inline-block;
 }
 
-.flex-item-spacing {
-    margin: 10px;
-}
-
 /* Materialize small */
 @media only screen and (max-width: 600px) {
     .flex-item {
         width: 100%;
     }
     .flex-item-spacing {
-        width: calc(100% - 20px);
+        margin: 3%;
+        width: calc(100% - 6%);
     }
 }
 
@@ -774,7 +771,8 @@ ul.pagination {
         width: 50%;
     }
     .flex-item-spacing {
-        width: calc(50% - 20px);
+        margin: 2%;
+        width: calc(50% - 4%);
     }
 }
 
@@ -784,7 +782,8 @@ ul.pagination {
         width: 33.33%;
     }
     .flex-item-spacing {
-        width: calc(33.33% - 20px);
+        margin: 1%;
+        width: calc(33.33% - 2%);
     }
 }
 
