@@ -795,3 +795,15 @@ iframe {
 img {
   max-width: 100%;
 }
+
+nav ul a {
+  color:#262626;
+}
+
+.picker--time .picker__button--clear {
+  color:#262626
+}
+
+.picker--time .picker__button--clear:before {
+  color:#262626;
+}
