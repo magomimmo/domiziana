@@ -54,17 +54,23 @@ paginate = 12
         url = "project/"
         weight = 40
 
-[[Menu.Main]]
-        name = "Posts"
-        identifier = "posts"
-        url = "post/"
-        weight = 50
+# [[Menu.Main]]
+#         name = "Posts"
+#         identifier = "posts"
+#         url = "post/"
+#         weight = 50
 
 [[Menu.Main]]
         name = "Biography"
         identifier = "biography"
         url = "biography/bio"
         weight = 60
+
+[[Menu.Main]]
+        name = "Contacts"
+        identifier = "contacts"
+        url = "contacts/"
+        weight = 70
 
 [Params]
     # When set to true, will use infinite scrolling to load paginated content
@@ -216,16 +222,21 @@ paginate = 12
       # image_position = "left center"
       always_show_text = true
 
-    [[Params.Cells.List]]
-      name = "Posts"
-      link = "/post/"
-      # image = "/img/iwanttobeyou.jpg"
-      # image_position = "center"
-      always_show_text = true
+    # [[Params.Cells.List]]
+    #   name = "Posts"
+    #   link = "/post/"
+    #   # image = "/img/iwanttobeyou.jpg"
+    #   # image_position = "center"
+    #   always_show_text = true
 
     [[Params.Cells.List]]
       name = "Biography"
       link = "/biography/bio/"
       # image = "/img/biography.jpg"
       # image_position = "center"
+      always_show_text = true
+
+    [[Params.Cells.List]]
+      name = "Contacts"
+      link = "/contacts/"
       always_show_text = true
