@@ -69,7 +69,7 @@ paginate = 12
 [[Menu.Main]]
         name = "Contacts"
         identifier = "contacts"
-        url = "contacts/"
+        url = "contacts/contacts"
         weight = 70
 
 [Params]
@@ -238,5 +238,5 @@ paginate = 12
 
     [[Params.Cells.List]]
       name = "Contacts"
-      link = "/contacts/"
+      link = "/contacts/contacts"
       always_show_text = true
