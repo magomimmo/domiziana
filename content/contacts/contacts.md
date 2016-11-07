@@ -3,7 +3,13 @@ date = "2016-06-01"
 title = "Contacts"
 +++
 
-#### EGIZIO'S Project
+##### Domiziana Giordano's Studio
+
+* Via Negroli 1,
+* 20133 - Milano (Italy)
+* office@domizianagiordano.it
+
+##### Egizio Panetti Art
 
 * Egizio Panetti
 * 156 Spring Street, #2
